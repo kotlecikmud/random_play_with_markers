@@ -1,0 +1,33 @@
+{
+  "_": null,
+  "markers": [
+    {
+      "sample": 0,
+      "section": "A"
+    },
+    {
+      "sample": 552385,
+      "section": "B"
+    },
+    {
+      "sample": 1083850,
+      "section": "B"
+    },
+    {
+      "sample": 1612042,
+      "section": "C"
+    },
+    {
+      "sample": 2141240,
+      "section": "D"
+    },
+    {
+      "sample": 2670131,
+      "section": "E"
+    },
+    {
+      "sample": 4787256,
+      "section": "F"
+    }
+  ]
+}
