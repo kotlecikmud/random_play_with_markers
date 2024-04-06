@@ -17,7 +17,7 @@ import sounddevice as sd
 # CONSTANTS
 __version__ = "00.01.00.00"
 WAV_F = "example.wav"  # INPUT NAME OF THE AUDIO FILE HERE
-MIX_LENGHT = 44100 * 60  # INPUT TOTAL TIME OF MIX HERE [samples], for 44100Hz sampling rate 1 second = 44100 samples
+MIX_LENGHT = 44100 * 60  # INPUT TOTAL TIME OF MIX HERE [samples], for 44100Hz samplingrate 1 second = 44100 samples
 
 
 def find_matching_json(wav_f):
